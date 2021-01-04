@@ -1,0 +1,21 @@
+Name: Bryan Pazmino
+Age: 23
+Telephone: 0995593932
+Materia: Sistemas Operativos
+Average: 15.6
+Gender: M
+ 
+Name: Francisco Ocana
+Age: 23
+Telephone: 0995593932
+Materia: EDO
+Average: 15.6
+Gender: M
+ 
+Name: Maria Jose
+Age: 22
+Telephone: 0995498095
+Subject: POO
+Average: 15.0
+Gender: F
+ 
